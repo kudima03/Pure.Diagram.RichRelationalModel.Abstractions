@@ -6,6 +6,18 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [0.1.0-preview.1.1.0] — 2026-11-11
+
+### Added
+
+- Added `net11.0` as a target framework.
+
+### Changed
+
+- Updated the `Pure.Diagram.Model.Abstractions` dependency to `0.1.0-preview.1.1.0`.
+- Updated the `Pure.Diagram.RelationalModel.Abstractions` dependency to
+  `0.1.0-preview.2.1.0`.
+
 ## [0.1.0-preview.1.0.0] — 2026-04-19
 
 ### Changed
